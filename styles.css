@@ -1,0 +1,124 @@
+.container {
+  border: 3px solid #d5d5d3;
+  border-radius: 5px;
+  padding: 10px;
+  margin: 10px auto;
+}
+.div {
+  display: block;
+}
+.color-panel {
+  display: inline-block;
+}
+.color-label {
+  text-align: center;
+}
+.color-hex {
+  text-align: center;
+}
+.cyan {
+  background-color: #70ae98;
+  width: 33%;
+  border: 1px solid #70ae98;
+}
+.yellow {
+  background-color: #ecbe7a;
+  width: 33%;
+  border: 1px solid #ecbe7a;
+}
+.blush {
+  background-color: #e58b88;
+  width: 33%;
+  border: 1px solid #e58b88;
+}
+.lavender {
+  background-color: #9dabdd;
+  width: 33%;
+  border: 1px solid #9dabdd;
+  margin: 3px 0 0 0;
+}
+.blue {
+  background-color: #d9effc;
+  width: 33%;
+  border: 1px solid #d9effc;
+  margin: 3px 0 0 0;
+}
+.grey {
+  background-color: #d5d5d3;
+  width: 33%;
+  border: 1px solid #d5d5d3;
+  margin: 3px 0 0 0;
+}
+
+h1,
+h2,
+p {
+  text-align: center;
+}
+
+.fira-sans {
+  font-family: "Fira Sans", sans-serif;
+  text-decoration: underline;
+  letter-spacing: 1px;
+  font-size: 20px;
+}
+.thin-fira-sans {
+  font-family: "Fira Sans", sans-serif;
+  font-weight: 100;
+}
+.regular-fira-sans {
+  font-family: "Fira Sans", sans-serif;
+  font-weight: 400;
+}
+
+.medium-fira-sans {
+  font-family: "Fira Sans", sans-serif;
+  font-weight: 500;
+}
+.merriweather {
+  font-family: "Merriweather", serif;
+  text-decoration: underline;
+  letter-spacing: 1px;
+  font-size: 20px;
+}
+
+.light-merriweather {
+  font-family: "Merriweather", serif;
+  font-weight: 300;
+}
+.regular-merriweather {
+  font-family: "Merriweather", serif;
+  font-weight: 400;
+}
+.italic-merriweather {
+  font-family: "Merriweather", serif;
+  font-weight: 300;
+  font-style: italic;
+}
+.mulish {
+  font-family: "Mulish", sans-serif;
+  text-decoration: underline;
+  letter-spacing: 1px;
+  font-size: 20px;
+}
+.extra-light-mulish {
+  font-family: "Mulish", sans-serif;
+  font-weight: 200;
+  font-style: italic;
+}
+.regular-mulish {
+  font-family: "Mulish", sans-serif;
+  font-weight: 400;
+}
+ul {
+  list-style-position: inside;
+  text-align: center;
+}
+.text-panel {
+  line-height: 25px;
+}
+.font-heading,
+.font-type,
+.color {
+  text-decoration: underline;
+}
