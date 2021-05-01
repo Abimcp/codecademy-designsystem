@@ -1,10 +1,10 @@
-#Codecademy: Website Design System
+# Codecademy: Website Design System
 Project from Codecademy to create a website design system using the HTML and CSS taught so far. 
 
-##Running the Project
+## Running the Project
 
 Simply open the index.html file in your favourite web browser.
 
-##Deployment
+## Deployment
 
-Deployed via Netlify at 
+Deployed via Netlify at https://codecademy-designsystem.netlify.app/
